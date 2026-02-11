@@ -1,3 +1,2 @@
-# Useless-program
-this is dumbass program, don't download it.
-btw, useless is useless.
+# Useless-program(game)
+ready to try useless+confusing game!?
