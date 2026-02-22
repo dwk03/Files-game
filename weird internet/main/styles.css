@@ -1,10 +1,10 @@
 /* Màu sắc chủ đạo của Reddit */
 :root {
-  --reddit-bg: #DAE0E6;       /* Màu xám nền đặc trưng */
+  --reddit-bg: #050505;       /* Màu xám nền đặc trưng */
   --reddit-white: #FFFFFF;    /* Trắng cho các thẻ bài viết */
   --reddit-border: #CCCCCC;   /* Màu viền */
   --reddit-blue: #0079D3;     /* Màu xanh của link và nút */
-  --reddit-text: #1A1A1B;     /* Màu chữ chính */
+  --reddit-text: #ffffff;     /* Màu chữ chính */
 }
 
 body {
@@ -87,7 +87,7 @@ body {
 }
 
 .votes {
-  background-color: #F8F9FA;
+  background-color: #0671db;
   padding: 8px;
   width: 40px;
   text-align: center;
