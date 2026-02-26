@@ -15,8 +15,7 @@
 <img width="267" height="111" alt="image" src="https://github.com/user-attachments/assets/406f53d7-2940-47dd-8c93-3e97955723fc" />
 
 # Updates
-- Features: pc, machines, net,...
-Realese Soon! 
-: (; uoy rof stseggus
+- Features: pc, machines, net,... <br> Realese Soon! <br> 
+<br> : (; uoy rof stseggus  <br>
 - internet étrange
 - centre de données
