@@ -25,3 +25,4 @@
 <br> : (; uoy rof stseggus  <br>
 - internet étrange
 - centre de données
+* Some secrets are not meant to be found where you expect.
