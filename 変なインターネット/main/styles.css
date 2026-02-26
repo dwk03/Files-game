@@ -1,0 +1,105 @@
+/* Màu sắc chủ đạo của Reddit */
+:root {
+  --reddit-bg: #050505;       /* Màu xám nền đặc trưng */
+  --reddit-white: #FFFFFF;    /* Trắng cho các thẻ bài viết */
+  --reddit-border: #CCCCCC;   /* Màu viền */
+  --reddit-blue: #0079D3;     /* Màu xanh của link và nút */
+  --reddit-text: #ffffff;     /* Màu chữ chính */
+}
+
+body {
+  background-color: var(--reddit-bg);
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: var(--reddit-text);
+  margin: 0;
+  padding: 20px;
+}
+
+/* Container chính để chia cột giống Reddit */
+.main-container {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Khu vực hiển thị các file (x.py, y.py, z.py, help.ts, etc.) */
+.feed {
+  flex: 1;
+  max-width: 740px;
+}
+
+/* Thẻ bài viết giả lập */
+.post-card {
+  background-color: var(--reddit-white);
+  border: 1px solid var(--reddit-border);
+  border-radius: 4px;
+  padding: 12px;
+  margin-bottom: 10px;
+  transition: border 0.2s;
+  text-decoration: none; /* Bỏ gạch chân nếu là thẻ <a> */
+  display: block;
+}
+
+.post-card:hover {
+  border-color: #898989;
+}
+
+/* Tiêu đề bài viết (như tên file của cậu) */
+.post-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 0 8px 0;
+  color: var(--reddit-text);
+}
+
+/* Phần link ẩn bí mật của cậu */
+.post-link {
+  color: var(--reddit-blue);
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}
+
+/* Sidebar bên phải */
+.sidebar {
+  width: 312px;
+  display: none; /* Ẩn đi trên màn hình nhỏ */
+}
+
+@media (min-width: 960px) {
+  .sidebar { display: block; }
+}
+
+.sidebar-box {
+  background-color: var(--reddit-white);
+  border: 1px solid var(--reddit-border);
+  border-radius: 4px;
+  padding: 12px;
+}
+.post-card {
+  display: flex; /* Chia card thành 2 cột: Vote và Content */
+  padding: 0; /* Để cột vote bám sát lề */
+}
+
+.votes {
+  background-color: #0671db;
+  padding: 8px;
+  width: 40px;
+  text-align: center;
+  border-right: 1px solid #EDEFF1;
+}
+
+.post-content {
+  padding: 10px 15px;
+}
+header a {
+  text-decoration: none;
+  color: #0079D3; /* Màu xanh đặc trưng của Reddit */
+  font-weight: bold;
+  margin-right: 10px;
+}
