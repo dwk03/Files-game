@@ -1,6 +1,5 @@
 # Preview
-<img width="253" height="185" alt="image" src="https://github.com/user-attachments/assets/bdb9adb3-8f28-4252-89fa-9715409fa36a" />
-<br> Developement(Original, Special ) <br> <img width="267" height="111" alt="image" src="https://github.com/user-attachments/assets/02b683ea-5d2c-4082-8574-a47dd77c6ff6" />
+<img width="660" height="134" alt="image" src="https://github.com/user-attachments/assets/8f5e91ed-a3c1-4506-8c41-21442e0e47cd" />
 
 
 <!----- データセンター ---->
