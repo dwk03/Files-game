@@ -14,9 +14,9 @@
 <img width="280" height="111" alt="image" src="https://github.com/user-attachments/assets/dbf96ac2-4f9f-4a77-bc49-9b3b576b0e2f" />
 <img width="267" height="111" alt="image" src="https://github.com/user-attachments/assets/406f53d7-2940-47dd-8c93-3e97955723fc" />
 
-# Updates:
+# Updates
 - Features: pc, machines, net,...
-
+Realese Soon! 
 : (; uoy rof stseggus
 - internet étrange
 - centre de données
