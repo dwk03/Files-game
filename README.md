@@ -1,7 +1,8 @@
 # Preview
 <img width="240" height="165" alt="image" src="https://github.com/user-attachments/assets/20ae755c-7986-4f71-8408-4ad318b45219" />
 <br> Development<br>
-<img width="300" height="158" alt="image" src="https://github.com/user-attachments/assets/dbf96ac2-4f9f-4a77-bc49-9b3b576b0e2f" />
+<img width="274" height="103" alt="image" src="https://github.com/user-attachments/assets/44c0be69-6c0a-4ed0-8373-0d92a803b091" />
+
 
 <!----- データセンター ---->
 
@@ -16,7 +17,7 @@
 <img width="240" height="165" alt="image" src="https://github.com/user-attachments/assets/20ae755c-7986-4f71-8408-4ad318b45219" />
 
 <!--- Development(Original, Special) ------>
-
+<img width="300" height="158" alt="image" src="https://github.com/user-attachments/assets/dbf96ac2-4f9f-4a77-bc49-9b3b576b0e2f" />
 <img width="300" height="158" alt="image" src="https://github.com/user-attachments/assets/dbf96ac2-4f9f-4a77-bc49-9b3b576b0e2f" />
 <img width="300" height="158" alt="image" src="https://github.com/user-attachments/assets/406f53d7-2940-47dd-8c93-3e97955723fc" />
 
@@ -26,3 +27,5 @@
 - internet étrange
 - centre de données
 * Some secrets are not meant to be found where you expect.
+
+- I've switched "weird alphabets" to "whaat".
