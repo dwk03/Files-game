@@ -1,0 +1,10 @@
+console.log("a.py+b.py+c.py");
+console.log("z.py+y.py+z.py");
+console.log("main.py?");
+console.log("a.py+c.py+x.py");
+console.log("b.py+z.py+y.py");
+console.log("a+c+x=10");
+console.log("b+z+y=5");
+console.log("if a+(c+x)-b(z*y)=-5 you'll confusing but you will find the answer");
+console.log("Find the file(your mission): main.py");
+console.log("It's near you");
