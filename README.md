@@ -10,7 +10,7 @@
 <!--    -->
 # How to Play
 - Download this repo as a ZIP file📁, extract it, and find all the secrets. Solve all the puzzles hidden in the available files📂.
-- Do not look at the source code before playing! 🛑
+- Do not look at the source code before playing! 🛑(i know you'll look(kinda)
 
 
 # Gallery
